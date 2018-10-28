@@ -1,0 +1,5 @@
+# GIT 올리기
+깃 상태확인 : git status  
+깃 변경파일 추가(.은 모든 파일을 의미) : git add .  
+깃 변경사항을 로컬 저장소에 커밋한다 : git commit -m"commit 메세지"  
+깃 원격서버저장소에 올린다 : git push  
