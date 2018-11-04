@@ -1,5 +1,7 @@
 #리그 오브 레전드란?
 
+![LOLmain](http://post.phinf.naver.net/20150519_234/loudcomm_143200110735714pmu_JPEG/mug_obj_143200110327756600.jpg)  
+
 세계 최고의 MOBA(Multiplayer Online Battle Arena) 게임입니다.
 
 끝없이 이어지는 실시간 전투와 협동을 통한 팀플레이, RTS와 RPG를 하나의 게임에서 동시에 즐길 수 있는 새로운 장르의 온라인 게임입니다. 두 팀은 각기 독특한 특성과 플레이스타일을 자랑하는 강력한 챔피언을 소환하여, 다양한 모드의 전장에서 정면 대결을 펼칩니다.
@@ -7,17 +9,25 @@
 
 ###치열한 대전
 
+![LOLfightgif](http://cdn.leagueoflegends.com/apollo/content/lists-of-legends/7_ForgettingZhonyas.gif)
+
 전략적인 판단, 전광석화같은 반사신경, 한 마음으로 움직이는 팀플레이로 소규모 교전과 대규모 팀간 전투에서 적 팀을 무찌르세요.
 
 ###전략과 진화
+
+![lolahrigif](http://cdn.leagueoflegends.com/apollo/content/lists-of-legends/2_AhriFlashCrash.gif)
 
 정기적으로 게임이 업데이트되고 다양한 맵과 게임 모드가 마련되어 있으며, 신규 챔피언 역시 끊임없이 출시되기 때문에 전략만 잘 세우면 누구라도 최고의 자리에 오를 수 있습니다.
 
 ###열띤 경쟁
 
+![LOLtiergif](https://i.makeagif.com/media/3-30-2016/ubijWF.gif)
+
 봇을 상대로 AI 상대 협동 플레이를 즐기든 리그 시스템에서 승급에 도전하든, 리그 오브 레전드에서는 비슷한 실력의 경쟁자들과 빠른 대전에 매칭해 드립니다.
 
 ###명예를 건 전투
+
+![LOLleonagif](http://cdn.leagueoflegends.com/apollo/content/lists-of-legends/8_BodyBlockingAlly.gif)
 
 매너 플레이로 명예를 겨루며, 동료들로부터 스포츠맨십에 대한 훈장을 획득하세요.
 
